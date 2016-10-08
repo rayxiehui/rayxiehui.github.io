@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aea1d36-6b5a-4070-9f63-957aa4eee398" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-12-filler.md" afterPath="$PROJECT_DIR$/_posts/2016-01-12-filler.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-14-blockquote-sample.md" afterPath="$PROJECT_DIR$/_posts/2016-01-14-blockquote-sample.md" />
     </list>
     <ignored path="rayxiehui.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-01-12-filler.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-01-12-filler.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-12-filler.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.18900344">
                 <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-01-14-blockquote-sample.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-01-14-blockquote-sample.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor vertical-scroll-proportion="0.07560138">
+                <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2016-01-12-filler.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-01-14-blockquote-sample.md" />
       </list>
     </option>
   </component>
@@ -54,8 +68,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="72" />
+    <option name="x" value="89" />
+    <option name="y" value="232" />
     <option name="width" value="1159" />
     <option name="height" value="728" />
   </component>
@@ -149,7 +163,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="72" width="1159" height="728" extended-state="0" />
+    <frame x="89" y="232" width="1159" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24956064" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -211,6 +225,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-14-blockquote-sample.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.07560138">
+            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
